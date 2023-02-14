@@ -10,7 +10,7 @@
     "dependencies": {
         "bignum": "0.13.1",
         "async": "1.5.2",
-        "redis": "0.12.1",
+        "redis": "4.6.4",
         "cli-color": "1.1.0",
         "dateformat": "1.0.12",
         "base58-native": "0.1.4",
